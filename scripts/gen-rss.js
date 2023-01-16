@@ -4,39 +4,48 @@ const RSS = require('rss')
 const matter = require('gray-matter')
 
 async function generate() {
-  const feed = new RSS({
-    title: 'EFAD',
-    site_url: 'https://efad.vercel.app/',
-    feed_url: 'https://efad.vercel.app/feed.xml'
-  })
-
-  const posts = await fs.readdir(path.join(__dirname, '..', 'pages', 'posts'))
-  const allPosts = []
-  await Promise.all(
-    posts.map(async (name) => {
-      if (name.startsWith('index.')) return
-
-      const content = await fs.readFile(
-        path.join(__dirname, '..', 'pages', 'posts', name)
-      )
-      const frontmatter = matter(content)
-
-      allPosts.push({
-        title: frontmatter.data.title,
-        url: '/posts/' + name.replace(/\.mdx?/, ''),
-        date: frontmatter.data.date,
-        description: frontmatter.data.description,
-        // categories: frontmatter.data.tag.split(', '), 
-        author: frontmatter.data.author
-      })
+  try {
+    const feed = new RSS({
+      title: 'EFAD',
+      site_url: 'https://efad.vercel.app/',
+      feed_url: 'https://efad.vercel.app/feed.xml'
     })
-  )
 
-  allPosts.sort((a, b) => new Date(b.date) - new Date(a.date))
-  allPosts.forEach((post) => {
-      feed.item(post)
-  })
-  await fs.writeFile('./public/feed.xml', feed.xml({ indent: true }))
+    const posts = await fs.readdir(path.join(__dirname, '..', 'pages', 'posts'), { encoding: 'utf8' })
+    const allPosts = []
+    await Promise.all(
+      posts.map(async (name) => {
+        if (name.startsWith('index.')) return
+
+        const content = await fs.readFile(
+          path.join(__dirname, '..', 'pages', 'posts', name),
+          { encoding: 'utf8' }
+        )
+        const frontmatter = matter(content)
+
+        allPosts.push({
+          title: frontmatter.data.title,
+          url: '/posts/' + name.replace(/\.mdx?/, ''),
+          date: frontmatter.data.date,
+          description: frontmatter.data.description,
+          categories: frontmatter.data.tag ? frontmatter.data.tag.split(', ') : [], 
+          author: frontmatter.data.author
+        })
+      })
+    )
+
+    allPosts.sort((a, b) => {
+      const dateA = new Date(a.date);
+      const dateB = new Date(b.date);
+      if (isNaN(dateA) || isNaN(dateB)) return 0;
+      return dateB - dateA;
+    });
+    allPosts.forEach((post) => {
+        feed.item(post)
+    })
+    await fs.writeFile('./public/feed.xml', feed.xml({ indent: true }), { encoding: 'utf8' })
+    console.log('RSS feed generated successfully');
+  } catch (err) {
+    console.error(err);
+  }
 }
-
-generate()
