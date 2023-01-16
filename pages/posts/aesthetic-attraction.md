@@ -1,7 +1,9 @@
 ---
-date: 2023-01-15 
-title: ergonomic furniture and seduction/attraction
+date: 2023-01-13 
+title: ergonomic furniture x seduction + attraction
 ---
+
+
 
 
 #seduction #attraction #ergonomicfurniture #interior #design
