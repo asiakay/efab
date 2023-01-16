@@ -1,3 +1,10 @@
+---
+type: page
+title: Expertise
+date: 2023-01-09
+---
+
+# Expertise
 Welcome to my professional portfolio, where I showcase my experience and skills in the field of fullstack development, IT/tech project management, and Visual UX/UI. I have honed my abilities over [X number of years] of experience, and specialize in [specific skills or services that you offer]. My portfolio is a collection of my finest works, including web design, graphic design, digital marketing and much more.
 
 I am a strong believer in user-centered design, and my goal is to create visually appealing designs that effectively communicate the client's message while also being easy to use and navigate. I work in close collaboration with my clients to understand their specific needs and tailor my services to meet those needs.
