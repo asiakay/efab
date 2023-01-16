@@ -1,6 +1,6 @@
 ---
 date: 2023-07-17
-title:git x getting started
+title: git x coding + getting started
 ---
 Here are some instructions on getting started with Git for a student with no prior experience and a goal of becoming a software engineer:
 
