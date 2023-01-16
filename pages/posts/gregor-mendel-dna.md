@@ -20,3 +20,6 @@ Filip Pardy, a molecular biologist on the research team, felt a heavy sense of r
 Mendel was ahead of his time in the way he used math to study patterns of inheritance in pea plants when looking at things like flower color and plant height, says Pardy. He analyzed a set of about 25,000 plants to create the formulas that are still used in genetics today.
 
 The genetic testing of Mendel's remains may offer new insights into his life and work, and will undoubtedly be a unique way to celebrate and honor his contributions to the field of genetics. The results of the genetic testing have not been made public yet, but it will be interesting to see what they reveal about the man who is considered the "father of genetics."
+
+
+These are some references that can provide more information about Mendel's life, work and the context in which he conducted his experiments, but there are many others available in different languages and formats.
