@@ -1,4 +1,8 @@
- "Seduction, Attraction and Aesthetic: The Surprising Role of Ergonomic Furniture"
+---
+date: 2023-01-15 
+title: ergonomic furniture and seduction/attraction
+---
+
 
 #seduction #attraction #ergonomicfurniture #interior #design
 
