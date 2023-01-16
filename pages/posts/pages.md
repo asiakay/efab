@@ -1,7 +1,7 @@
 ---
-title: Next.js Pages
+title: welcome
 date: 2021/3/18
-description: Learn more about Next.js pages.
+description: Learn more about EFAD
 tag: web development
 author: You
 ---
