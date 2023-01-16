@@ -1,6 +1,6 @@
 ---
 date: 2023-01-10
-title: Mastering Nonverbal Seduction - Building Strong Connections
+title: mastering nonverbal seduction + building strong connections
 tags: #bodylanguage #seduction #attraction #nonverbalcommunication #vocalcues #relationships #communication #connection
 ---
 
