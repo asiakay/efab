@@ -10,7 +10,7 @@ async function generate() {
     feed_url: 'https://efad.vercel.app/feed.xml'
   })
 
-  const posts = await fs.readdir(path.join(__dirname, '..', 'pages', 'posts', name))
+  const posts = await fs.readdir(path.join(__dirname, '..', 'pages', 'posts'))
   const allPosts = []
   await Promise.all(
     posts.map(async (name) => {
@@ -26,7 +26,7 @@ async function generate() {
         url: '/posts/' + name.replace(/\.mdx?/, ''),
         date: frontmatter.data.date,
         description: frontmatter.data.description,
-        categories: frontmatter.data.tags.split(','), 
+        // categories: frontmatter.data.tag.split(', '), 
         author: frontmatter.data.author
       })
     })
