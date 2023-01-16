@@ -56,3 +56,29 @@ Scorecard and KPI Development: Developing and implementing scorecards and key pe
 Master Data Management: Managing and maintaining a single version of the truth for critical data.
 
 Data Quality Management: Ensuring that data is accurate, complete and consistent.
+
+Keynote Speaking: Delivering keynote speeches and presentations on a variety of technical topics.
+
+Technical Presentations: Delivering technical presentations on specific technologies or industry trends
+
+Moderation: Moderating panel discussions, Q&A sessions, and roundtable discussions.
+
+Workshop Facilitation: Leading workshops and training sessions on technical topics.
+
+Public Speaking Coaching: Providing coaching and training to individuals and teams on public speaking and presentation skills.
+
+Speechwriting: Writing speeches and presentations for clients.
+
+Event Planning: Planning and coordinating technical speaking events, such as conferences and meetups
+
+Technical Demonstrations: Demonstrating technical products and services to audiences.
+
+Technical Consultation: Providing consultation and advice on technical topics to clients and organizations.
+
+Technical Panel Participation: Participating as a panelist on technical discussions and debates.
+
+Technical Podcast Hosting: Hosting podcasts on technical topics and interviewing industry experts.
+
+Technical Blogging: Writing technical blog posts and articles for publications and websites.
+
+Technical Video Production: Producing and presenting technical videos for online platforms and social media.
