@@ -1,5 +1,5 @@
 ---
-date: 2023-01-13 
+date: 2023/01/13 
 title: ergonomic furniture x seduction + attraction
 ---
 
