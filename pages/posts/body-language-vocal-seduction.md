@@ -1,6 +1,6 @@
 ---
 date: 2023-01-10
-title: "Decoding the Art of Seduction - Understanding Body Language and Vocal Cues for Building Stronger Connections"
+title: Mastering Nonverbal Seduction: Building Strong Connections
 tags: #bodylanguage #seduction #attraction #nonverbalcommunication #vocalcues #relationships #communication #connection
 ---
 
