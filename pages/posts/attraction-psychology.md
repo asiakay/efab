@@ -1,6 +1,6 @@
 ---
 date: 2023-01-15 
-title: Unlocking Flirting Secrets: The Science of Attraction
+title: unlocking flirting secrets - science of attraction
 ---
 
 
