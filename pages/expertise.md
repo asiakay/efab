@@ -15,8 +15,10 @@ I welcome the opportunity to discuss any potential projects or collaborations, a
 
 Thank you for visiting my portfolio...  
 
-## Services: 
+## EFAD: 
 
+*EFAD* is a professional software development company that specializes in web and mobile app development, blockchain solutions, and other IT-related services. Our experienced team provides innovative, user-centered solutions that meet and exceed client expectations. We stay at the forefront of our field and provide reliable, efficient services. Contact us for your software development needs.
+>
 Full Stack Development: We offer comprehensive design, development, and maintenance services for web and mobile applications. Our experienced developers are proficient in a wide range of technologies and can handle projects of any complexity.
 
 Blockchain Development: We specialize in designing, developing, and maintaining decentralized applications and smart contracts. Our team is well-versed in blockchain technology and can provide expert guidance to clients looking to explore or implement blockchain solutions.
