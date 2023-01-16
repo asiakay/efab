@@ -54,3 +54,5 @@ IT Service Budgeting and Financial Management: Managing and controlling the fina
 Scorecard and KPI Development: Developing and implementing scorecards and key performance indicators.
 
 Master Data Management: Managing and maintaining a single version of the truth for critical data.
+
+Data Quality Management: Ensuring that data is accurate, complete and consistent.
