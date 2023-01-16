@@ -1,6 +1,6 @@
 ---
 date: 2023-01-11 
-title: navigating relationship uncertainty - a tech-savvy approach
+title: a tech-savvy approach to navigating relationship uncertainty
 
 ---
 
