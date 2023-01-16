@@ -1,6 +1,6 @@
 ---
 date: 2023-01-11 
-title: "Navigating Uncertainty in Relationships - The Importance of Patience and Emotional Intelligence"
+title: Navigating Relationship Uncertainty: Tech-Savvy Approach
 
 ---
 
