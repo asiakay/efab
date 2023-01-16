@@ -22,4 +22,6 @@ Mendel was ahead of his time in the way he used math to study patterns of inheri
 The genetic testing of Mendel's remains may offer new insights into his life and work, and will undoubtedly be a unique way to celebrate and honor his contributions to the field of genetics. The results of the genetic testing have not been made public yet, but it will be interesting to see what they reveal about the man who is considered the "father of genetics."
 
 source: "Why scientists dug up the father of genetics, Gregor Mendel, and analyzed his DNA" - [NPR](https://www.npr.org/sections/health-shots/2022/12/30/1142202365/gregor-mendel-genetics-dna-analyzed)
+
+
 These are some references that can provide more information about Mendel's life, work and the context in which he conducted his experiments, but there are many others available in different languages and formats.
