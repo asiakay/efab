@@ -1,5 +1,5 @@
 ---
-data: 2022/12/30
+date: 2022/12/30
 title: Unearthing the Father of Genetics - A Scientific Analysis of Gregor Mendel's DNA
 ---
 
