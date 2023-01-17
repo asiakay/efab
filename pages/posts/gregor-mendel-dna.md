@@ -1,6 +1,6 @@
 ---
-data: 2023/04/01 
-title: scientists exhume and analyze gregor mendel's dna, unearthing the father of genetics
+data: 2022/12/30
+title: Unearthing the Father of Genetics - A Scientific Analysis of Gregor Mendel's DNA
 ---
 
 Summary: In 2022, a team of scientists in the Czech Republic exhumed the body of Gregor Mendel, considered the "father of genetics," and sequenced his DNA to celebrate his 200th birthday. Mendel, a scientist and friar, conducted experiments in the mid-1800s that laid the foundation for modern genetics. The team obtained permission from Mendel's religious order, the Augustinians, and were able to confirm his identity through analysis of his personal possessions and newspapers found in his coffin. The results of the genetic testing may offer new insights into Mendel's life and work.
@@ -22,6 +22,5 @@ Mendel was ahead of his time in the way he used math to study patterns of inheri
 The genetic testing of Mendel's remains may offer new insights into his life and work, and will undoubtedly be a unique way to celebrate and honor his contributions to the field of genetics. The results of the genetic testing have not been made public yet, but it will be interesting to see what they reveal about the man who is considered the "father of genetics."
 
 source: "Why scientists dug up the father of genetics, Gregor Mendel, and analyzed his DNA" - [NPR](https://www.npr.org/sections/health-shots/2022/12/30/1142202365/gregor-mendel-genetics-dna-analyzed)
-
 
 These are some references that can provide more information about Mendel's life, work and the context in which he conducted his experiments, but there are many others available in different languages and formats.
