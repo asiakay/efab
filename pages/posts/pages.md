@@ -1,9 +1,9 @@
 ---
-title: welcome
+title: Welcome to the Tech World
 date: 2021/3/18
-description: Learn more about EFAD
+description: Learn more about EFAB
 tag: web development
-author: You
+author: efab
 ---
 # welcome
 When in the course of human events, it becomes necessary for one to improve one's life, a decent respect to the opinions of mankind requires that we should declare the causes which impel us to explore the intersection of various topics.
