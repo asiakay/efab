@@ -1,5 +1,5 @@
 ---
-date: 2022/02/01
+date: 2023/02/01
 title: Finding Inner Strength - Strategies for Managing Fear, Developing Bravery, and Staying Calm
 tags: #fear #bravery #calm #mindfulness #relaxation #therapy #selfcompassion #support #emotionalwellbeing #personalgrowth
 ---
