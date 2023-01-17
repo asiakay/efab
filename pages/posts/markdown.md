@@ -1,5 +1,5 @@
 ---
-title: Markdown Examples
+title: Mastering Markdown for Blogging Success
 date: 2021/3/19
 description: View examples of all possible Markdown options.
 tag: web development

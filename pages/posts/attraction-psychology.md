@@ -1,10 +1,9 @@
 ---
-date: 2023-01-15 
-title: unlocking flirting secrets - science of attraction
+date: 2023-01-15
+title: The Science of Attraction
 ---
 
-
-Flirting is a universal behavior that has been observed in every culture around the world. It is a way for people to express interest and attraction, and it plays a crucial role in building relationships. 
+Flirting is a universal behavior that has been observed in every culture around the world. It is a way for people to express interest and attraction, and it plays a crucial role in building relationships.
 
 But what is it about flirting that makes it so effective in building attraction?
 

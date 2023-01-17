@@ -1,7 +1,8 @@
 ---
 date: 2023-07-17
-title: git x coding + getting started
+title: Getting Started in Tech
 ---
+
 Here are some instructions on getting started with Git for a student with no prior experience and a goal of becoming a software engineer:
 
 Install Git on your computer: You can download and install Git from the official website (https://git-scm.com/downloads).

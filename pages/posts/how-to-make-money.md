@@ -1,12 +1,12 @@
 ---
 date: 2023-06-01
-title: How to make money
+title: Money-Making Hacks
 ---
 
-# How to make money.(Period) 
+# How to make money.(Period)
 
-the prompt was generate a youtube video about how to make a youtube about how to make money. 
-It was a little meta. But, here's the literal script. See something say something. 💅🏾 
+the prompt was generate a youtube video about how to make a youtube about how to make money.
+It was a little meta. But, here's the literal script. See something say something. 💅🏾
 
 Introduction:
 Hello and welcome to my video on how to make money! In this video, I'll be sharing some tips and strategies that you can use to earn extra cash. Whether you're looking to supplement your income or start a new business, these ideas will help you get started. So without further ado, let's dive in!

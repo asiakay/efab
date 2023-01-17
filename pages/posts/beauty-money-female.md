@@ -1,6 +1,6 @@
 ---
 date: 2023-01-08
-title: beauty. power or pain?
+title: The Power and Pain of Beauty
 ---
 
 The concept of beauty is a complex and ever-changing one. Throughout history, societal standards of beauty have fluctuated, and what is considered beautiful in one culture may not be in another. However, in recent years, there has been a growing conversation around the monetary value of female beauty and how it can impact a woman's life in various aspects, as well as the exploitation of female beauty for profit and gain.

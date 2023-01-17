@@ -1,9 +1,7 @@
 ---
 date: 2023-01-07
-title: what kind of leader
+title: Leadership in the Modern World
 ---
-
-
 
 Leadership and success can take on many forms in human society, and what works for one person or group may not work for another. It is important to recognize that there is no one-size-fits-all approach to leadership and success, and that different people and organizations have different needs and goals.
 
@@ -18,6 +16,3 @@ One way to think about success is to focus on personal fulfillment and satisfact
 Another way to think about success is in terms of impact. This can mean making a positive difference in the world, whether it is through one's work, community, or personal relationships.
 
 In conclusion, leadership and success can take on many forms in human society, and it is important to recognize and respect the diversity of perspectives and needs. The most effective leaders and successful individuals are those who are able to adapt and find the right approach for the situation and the people they are working with.
-
-
-
