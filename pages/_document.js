@@ -3,7 +3,7 @@ import { Html, Head, Main, NextScript } from 'next/document'
 export default function Document() {
   const meta = {
     title: 'EFAD',
-    description: 'EdTech | Forensics | Art | DevOps',
+    description: 'EdTech | Forensics | Art | Builds',
     image: 'https://assets.vercel.com/image/upload/q_auto/front/vercel/dps.png'
   }
 
