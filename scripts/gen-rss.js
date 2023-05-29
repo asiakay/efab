@@ -6,9 +6,9 @@ const matter = require('gray-matter')
 async function generate() {
   try {
     const feed = new RSS({
-      title: 'EFAD',
-      site_url: 'https://efad.vercel.app/',
-      feed_url: 'https://efad.vercel.app/feed.xml'
+      title: 'EFAB',
+      site_url: 'https://efab.vercel.app/',
+      feed_url: 'https://efab.vercel.app/feed.xml'
     })
 
     const posts = await fs.readdir(path.join(__dirname, '..', 'pages', 'posts'), { encoding: 'utf8' })
